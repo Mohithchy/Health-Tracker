@@ -10,6 +10,11 @@
         "backgroundColor": "#0D0D14"
       },
       "package": "com.mohithchy.habittracker"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8fd70042-d795-4aaa-979f-f45e0f964a35"
+      }
     }
   }
 }
