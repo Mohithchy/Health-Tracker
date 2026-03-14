@@ -4,7 +4,11 @@
     "slug": "habit-tracker",
     "version": "1.0.0",
     "orientation": "portrait",
+    "userInterfaceStyle": "dark",
     "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0D0D14"
+      },
       "package": "com.mohithchy.habittracker"
     }
   }
